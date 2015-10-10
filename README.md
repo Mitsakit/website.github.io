@@ -14,7 +14,9 @@
 7.	Και τέλος επιλέγουμε Public page.
 
 Ένα αντίγραφο του κώδικα δημιουργήθηκε. Για να μπορέσω όμως να έχω πρόσβαση σε αυτό  δημιούργησα ένα branch του Master αρχείου μου σε gh-pages. Στον κλάδο gh-pages εμφανίστηκαν τα αρχεία του κώδικα. 
-Η σελίδα είναι πλέον διαθέσιμη στη διεύθυνση http://username.github.io/projectname  
+Η σελίδα είναι πλέον διαθέσιμη στη διεύθυνση http://username.github.io/projectname
+http://mitsakit.github.io/website.github.io.
+
 
 
 
